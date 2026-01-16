@@ -44,10 +44,23 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
 </div>
 
-###
 
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=rect&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=random"  />
-</div>
 
-###
+    footer {
+      background-color: #82b1ff;
+      color: #ffffff;
+      padding: 30px 20px;
+      font-family: Arial, Helvetica, sans-serif;
+    }
+
+    .footer-container {
+      max-width: 1200px;
+      margin: 0 auto;
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: space-between;
+      align-items: center;
+      gap: 20px;
+    }
+
+
