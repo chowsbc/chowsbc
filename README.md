@@ -44,6 +44,23 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
 </div>
 
+    footer {
+      background-color: #82b1ff;
+      color: #ffffff;
+      padding: 30px 20px;
+      font-family: Arial, Helvetica, sans-serif;
+    }
+
+    .footer-container {
+      max-width: 1200px;
+      margin: 0 auto;
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: space-between;
+      align-items: center;
+      gap: 20px;
+    }
+
 ###
 
 <div>
