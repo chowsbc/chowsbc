@@ -16,14 +16,6 @@
 
 ###
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/chowsbc/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
-
 <p align="left">📈 Working with data since 2022<br>💡 I'm currently learning Tableau and Power BI<br>✅ Goals: Lead more analytics projects this year<br>🎻 Fun fact: I've played 2 instruments and 3 sports</p>
 
 ###
